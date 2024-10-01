@@ -9,8 +9,8 @@
   <meta name="keywords" content="">
 
   <!-- Favicons -->
-  <link href="public/img/favicon.png" rel="icon">
-  <link href="public/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="public/assets/img/favicon.png" rel="icon">
+  <link href="public/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -18,14 +18,14 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="public/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="public/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="public/vendor/aos/aos.css" rel="stylesheet">
-  <link href="public/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <link href="public/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="public/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="public/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="public/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="public/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="public/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
 
   <!-- Main CSS File -->
-  <link href="public/css/main.css" rel="stylesheet">
+  <link href="public/assets/css/main.css" rel="stylesheet">
 
   <!-- =======================================================
   * Template Name: Kelly
@@ -49,11 +49,11 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#" class="active">About</a></li>
-          <li><a href="#">Resume</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Portfolio</a></li>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html" class="active">About</a></li>
+          <li><a href="resume.html">Resume</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="portfolio.html">Portfolio</a></li>
           <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="#">Dropdown 1</a></li>
@@ -101,7 +101,7 @@
 
         <div class="row gy-4 justify-content-center">
           <div class="col-lg-4">
-            <img src="public/img/profile-img.jpg" class="img-fluid" alt="">
+            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 content">
             <h2>UI/UX Designer &amp; Web Developer.</h2>
@@ -285,7 +285,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="public/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                 <h3>Saul Goodman</h3>
                 <h4>Ceo &amp; Founder</h4>
                 <div class="stars">
@@ -301,7 +301,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="public/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
                 <h3>Sara Wilsson</h3>
                 <h4>Designer</h4>
                 <div class="stars">
@@ -317,7 +317,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="public/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
                 <h3>Jena Karlis</h3>
                 <h4>Store Owner</h4>
                 <div class="stars">
@@ -333,7 +333,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="public/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
                 <h3>Matt Brandon</h3>
                 <h4>Freelancer</h4>
                 <div class="stars">
@@ -349,7 +349,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="public/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
                 <h3>John Larson</h3>
                 <h4>Entrepreneur</h4>
                 <div class="stars">
@@ -377,7 +377,7 @@
 
     <div class="container">
       <div class="copyright text-center ">
-        <p>© <span>Copyright</span> <strong class="px-1 sitename">Lorem Ipsum</strong> <span>All Rights Reserved<br></span></p>
+        <p>© <span>Copyright</span> <strong class="px-1 sitename">Kelly</strong> <span>All Rights Reserved<br></span></p>
       </div>
       <div class="social-links d-flex justify-content-center">
         <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -403,18 +403,18 @@
   <div id="preloader"></div>
 
   <!-- Vendor JS Files -->
-  <script src="public/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="public/vendor/php-email-form/validate.js"></script>
-  <script src="public/vendor/aos/aos.js"></script>
-  <script src="public/vendor/waypoints/noframework.waypoints.js"></script>
-  <script src="public/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="public/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="public/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="public/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
-  <script src="public/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="public/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="public/assets/vendor/php-email-form/validate.js"></script>
+  <script src="public/assets/vendor/aos/aos.js"></script>
+  <script src="public/assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="public/assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="public/assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="public/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="public/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="public/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
 
   <!-- Main JS File -->
-  <script src="public/js/main.js"></script>
+  <script src="assets/js/main.js"></script>
 
 </body>
 
