@@ -286,7 +286,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="public/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Jon Nathaniel Castaneda</h3>
+                <h3>Saul Goodman</h3>
                 <h4>Ceo &amp; Founder</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
@@ -302,7 +302,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="public/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sam Nicole</h3>
+                <h3>Sara Wilsson</h3>
                 <h4>Designer</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
@@ -318,7 +318,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="public/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jherick Mongcal</h3>
+                <h3>Jena Karlis</h3>
                 <h4>Store Owner</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
@@ -334,7 +334,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="public/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Luis Javier Montinola</h3>
+                <h3>Matt Brandon</h3>
                 <h4>Freelancer</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
@@ -350,7 +350,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="public/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>Gino Santos</h3>
+                <h3>John Larson</h3>
                 <h4>Entrepreneur</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>

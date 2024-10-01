@@ -255,7 +255,7 @@ h1,h2,h3,h4,h5,h6 {
     height: 2px;
     bottom: -6px;
     left: 0;
-    /* background-color: var(--nav-hover-color); */
+    background-color: var(--nav-hover-color);
     visibility: hidden;
     width: 0px;
     transition: all 0.3s ease-in-out 0s;

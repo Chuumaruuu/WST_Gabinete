@@ -19,7 +19,7 @@
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root {
-  --background-color: #fff6dc; /* Background color for the entire website, including individual sections */
+  --background-color: #ffffff; /* Background color for the entire website, including individual sections */
   --default-color: #444444; /* Default color used for the majority of the text content across the entire website */
   --heading-color: #222222; /* Color for headings, subheadings and title throughout the website */
   --accent-color: #34b7a7; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
@@ -138,8 +138,8 @@ h1,h2,h3,h4,h5,h6 {
 # Global Header
 --------------------------------------------------------------*/
 .header {
-  color: #c48954;
-  background-color: #c48954;
+  color: var(--default-color);
+  background-color: var(--background-color);
   padding: 15px 0;
   transition: all 0.5s;
   z-index: 997;
@@ -228,7 +228,7 @@ h1,h2,h3,h4,h5,h6 {
   }
 
   .navmenu a, .navmenu a:focus {
-    color: #8a501c;
+    color: var(--nav-color);
     font-size: 15px;
     padding: 0 2px;
     font-family: var(--nav-font);
@@ -255,7 +255,7 @@ h1,h2,h3,h4,h5,h6 {
     height: 2px;
     bottom: -6px;
     left: 0;
-    /* background-color: var(--nav-hover-color); */
+    background-color: var(--nav-hover-color);
     visibility: hidden;
     width: 0px;
     transition: all 0.3s ease-in-out 0s;
@@ -271,7 +271,7 @@ h1,h2,h3,h4,h5,h6 {
   .navmenu li:hover>a,
   .navmenu .active,
   .navmenu .active:focus {
-    color: #fad5b4;
+    color: var(--nav-hover-color);
   }
 
   .navmenu .dropdown ul {
